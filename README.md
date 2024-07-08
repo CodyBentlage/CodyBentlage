@@ -2,7 +2,6 @@
 - 👀 I’m interested in software engineering internships
 - 🌱 I’m currently learning C++
 - 📫 The best way to reach me would be through my email - CodyBentlage@gmail.com
-- 😄 Pronouns: He/Him
 
 <!---
 CodyBentlage/CodyBentlage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
