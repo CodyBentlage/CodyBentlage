@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodyBentlage
 - 👀 I’m interested in software engineering internships
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Python
 - 📫 The best way to reach me would be through my email - CodyBentlage@gmail.com
 
 <!---
